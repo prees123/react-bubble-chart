@@ -6,6 +6,8 @@ First install node.
 
 ### `brew install node`
 
+Then run ### `npm install`
+
 In the project directory, you can run:
 
 ### `npm run start`
